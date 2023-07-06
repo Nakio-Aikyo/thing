@@ -10,137 +10,115 @@
     "systems": [
       {
         "id": "pf2e",
-        "type": "system",
-        "compatibility": {}
+        "type": "system"
       }
     ],
     "recommends": [
       {
         "id": "combat-chat",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "simply-portraits",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "xdy-pf2e-workbench",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "dd-import",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "forien-copy-environment",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "monks-enhanced-journal",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "maru-playlist-enhancements",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "drag-ruler",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "combat-tracker-dock",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "pf2e-modifiers-matter",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "multi-token-edit",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "pf2e-tokens-bestiaries",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
-        "id": "tokenflip",
-        "type": "module",
-        "compatibility": {}
+        "id": "fast-flip",
+        "type": "module"
       },
       {
         "id": "zsync",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "token-z",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "multiple-document-selection",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "vtta-tokenizer",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "xdy-pf2e-workbench",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "monks-tokenbar",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "pause-text",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "smarttarget",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "enhanced-terrain-layer",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "dice-so-nice",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "dice-calculator",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
+      },
+      {
+        "id": "hide-gm-rolls",
+        "type": "module"
       }
     ]
   },
   "authors": [
     {
-      "name": "Kane",
-      "flags": {}
+      "name": "Kane"
     }
   ]
 }
